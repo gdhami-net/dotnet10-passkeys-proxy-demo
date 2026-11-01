@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/PasskeyApp/PasskeyApp.csproj" />
+    <Project Path="src/Proxy/Proxy.csproj" />
+  </Folder>
+</Solution>
